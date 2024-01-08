@@ -4,3 +4,14 @@ Following is the demo of the Attendance Manager:
 
 https://github.com/Khushi266/Attendance_Manager/assets/142587660/68bf282d-b87d-49d3-875d-561c3ab9e341
 
+Following are the steps to make this website work:
+1. Download the zip file and extract it.
+2. Open the folder into Visual Studio Code
+3. Open The new terminal.
+4. Command : pip install django
+5. Command : python manage,py make migrations
+6. Command : python manage.py migrate
+7. Command : python manage.py createsuperuser
+8. Type a username and password with your convienience
+9. Command : python manage.py runserver
+10. Now you website is running on localhost portal on browser.
